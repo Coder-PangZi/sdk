@@ -1,6 +1,6 @@
 # 钉钉自定义机器人
 
-[顶顶文档](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
+[钉钉文档](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
 
 ## 使用
 
